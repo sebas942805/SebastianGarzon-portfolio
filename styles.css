@@ -1,0 +1,70 @@
+body{
+background-image: url("Background.jpg");
+}
+
+.Navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.biography {text-decoration-color: black;}
+
+.Title {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Section_Photo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Section_Projects {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Section_ContactInfo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Section_NetworkingSites {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Section_Skills {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.semantics1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.semantics2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.semantics3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.semantics4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
