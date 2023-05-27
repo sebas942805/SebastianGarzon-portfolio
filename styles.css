@@ -6,9 +6,10 @@ background-image: url("Background.jpg");
     display: flex;
     justify-content: space-around;
     align-items: center;
+    color: black;
 }
 
-.biography {text-decoration-color: black;}
+.Section_biography {font-size: 20px;}
 
 .Title {
     display: flex;
@@ -26,11 +27,13 @@ background-image: url("Background.jpg");
     display: flex;
     justify-content: space-around;
     align-items: center;
+    font-size: 15px;
 }
 .Section_ContactInfo {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    font-size: 20px;
 }
 
 .Section_NetworkingSites {
@@ -43,6 +46,7 @@ background-image: url("Background.jpg");
     display: flex;
     justify-content: space-around;
     align-items: center;
+    font-size: 15px;
 }
 
 .semantics1 {
